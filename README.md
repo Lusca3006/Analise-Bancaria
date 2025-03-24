@@ -103,7 +103,9 @@ Este projeto demonstrou como a análise de dados pode ajudar bancos a entender m
 🔹 Criar um dashboard interativo para visualização das análises  
 
 📌 **Autor:** Lucas Lourenço de Oliveira  
+
 📌 **Contato:** lucas.lourenco331@hotmail.com
+
 📌 **LinkedIn:** https://www.linkedin.com/in/lucas-louren%C3%A7o3/
 
 ---
