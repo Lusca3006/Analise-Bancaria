@@ -14,7 +14,7 @@ Com essa informação, o banco pode personalizar suas estratégias de marketing 
 
 ---
 
-## 2. Compreensão dos Dados
+## 2. Compreensão dos Dados 
 Os dados contêm informações sobre os clientes e suas interações anteriores com o banco. As principais variáveis analisadas incluem:
 
 - **Idade**: Faixa etária do cliente
